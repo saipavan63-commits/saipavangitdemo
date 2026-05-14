@@ -1,0 +1,6 @@
+a = input("Enter the vlaue of a:")
+b = input("Enter the value of b:")
+c = int(a)-int(b)
+print (" The subtraction of a and b is:", (c))
+print (type(c))
+print ("This is my first programm in new computer")
