@@ -1,0 +1,8 @@
+a,b = input("Enter the value of x and y: ").split(",")
+x = int(a)
+y = int(b)
+print("Addition:", x+y)
+print("Subtraction:", x-y)
+print("Multiplication:", x*y)
+print("Division:", x/y)
+print("This is amazing feature of optiv")
