@@ -10,3 +10,6 @@ Dosa
 My fav Car
 Mini coper
 
+Now ia m learning the git reset option
+
+
